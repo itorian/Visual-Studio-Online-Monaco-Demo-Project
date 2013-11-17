@@ -15,7 +15,7 @@ namespace VisualStudioOnlineMonacoDemo.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page. This is from Monaco Editor";
+            ViewBag.Message = "Your application description page.";
 
             return View();
         }
